@@ -1,0 +1,102 @@
+1. Which of the following is the correct declaration of an array
+int[] arr = new int[];
+int arr[] = new arr[];
+int[] arr=new int[5];
+int[] arr = new int[]{1,2,3,4,5};
+int[] arr = new int[5]{1,2,3,4,5};
+int[] arr = {1,2,3,4,5};
+3,4,5,6
+
+2. what does ToCharArray() do?
+To convert the string into the char
+
+3. What is Split() method do
+.takes a parameter and then divides a sentence
+it is used break the string into substring
+
+4.What are the parameters of Split method
+arraynameSplit('');
+arraynameSplit(',');
+arraynameSplit(';');
+arraynameSplit('/');
+
+
+5.How to convert any datatypes to string
+ToString();
+
+6.What is an Array in c#
+
+It' a built in class
+.provides lot of ready made methods
+.can used with array of any datatypes
+
+
+7.What does Reverse() do in an Array give syntax
+Reverse is used to reverse the sequence of elements in the entire array
+
+8.What does Split() do in an array give syntax
+9.What does Min() and Max() do in an array
+Min finds the smallest value in the array
+Max finds the highestvalue int the array
+10.How to create an array of Objects of class Student
+
+
+11. Write a sytax to display values from a string array whose names starts
+with s and Length greater than 5
+12. Write a Syntax to display all Employees from Employees array whose Designation is Manager
+13. Syntax to count for a particular alphabet in a sentence
+CountOf();
+
+14. Draw back of an array
+.array can store only homogenous datatypes
+.Fixed size
+.Cannot be increased or decresed in array sizeat run time
+
+15. What are Collections and why
+.built in namespace
+Collections are used to store,manipulate and retrieve the data
+made to more effectively to compare data 
+
+16. Types of Collections
+Which works with index
+which works with lifo
+which works with fifo
+which works with key value pair
+which works with index and key value
+
+17. ArrayList is a Collection class which works with __________-
+index based.
+18. Which method is used to add values to a ArrayList
+add()
+
+19. What is auto implemented collection give syntax
+
+ArrayList a = new ArrayList(){"Mrudhu",1,true}
+
+20. give syntax to display values from ArrayList using forloop
+	for(int i=0 ; i<array_list.Count ; i++){
+		Console.Write(array_List[i] + " ")
+	}
+21. give syntax to display values from ArrayList using foreach
+	foreach(var a in array_list){
+		Console.Write(a + " ")
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
